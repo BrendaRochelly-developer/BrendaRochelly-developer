@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BrendaRochelly-developer, I'm 21 years old and live in the country Brazil!
-- 👀 I became interested in developing for mobile when I started studying programming, more specifically focused on android.
-- 🌱 I'm currently learning how to develop mobile applications for Android using the Kotlin language.
-- 💞️ I'm looking to collaborate as a mobile developer specializing in Java and Kotlin
-- 📫 How to reach me brendarochelly.developer@gmail.com
+- 👋 Meu nome é Brenda Rochelly, sou especializada nas linguagens de programação JavaScript focado para aplicação web e Java para back-end, também tenho conhecimentos em C# para criação de jogos na IDE Visual Studio Microsoft e na plataforma Unity;
+- 👀 Nasci em Pernambuco e sou estudante de Jogos Digitais; Depois de entrar na faculdade de tecnologia, eu realmente descobri o que eu queria fazer para viver;
+- 🌱 O curso de Jogos Digitais, abrange várias áreas dentro do mundo da programção, desde Back-end, Front-end, Banco de Dados e até mesmo Markting; Me interessei por todas as linguagens mas me identifiquei com a JavaScript para aplicação web e claro a C# para criação de jogos;
+- 💞️ Atualmente estou procurando um estágio para que eu possa desenvolver e praticar minhas habilidades como desenvolvedora Front-End.
+- 📫 Entre em contato por --> brendarochelly.developer@gmail.com
 
 <!---
 BrendaRochelly-developer/BrendaRochelly-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
