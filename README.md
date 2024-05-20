@@ -1,6 +1,5 @@
-- 👋 Meu nome é Brenda Rochelly, sou especializada nas linguagens de programação JavaScript e Java para aplicações back-end, também tenho conhecimentos em C# para criação de jogos na IDE Visual Studio Microsoft e na plataforma Unity;
-- 👀 Nasci em Pernambuco e sou estudante de Jogos Digitais; Depois de entrar na faculdade de tecnologia, eu realmente descobri o que eu queria fazer para viver;
-- 🌱 O curso de Jogos Digitais, abrange várias áreas dentro do mundo da programção, desde Back-end, Front-end, Banco de Dados e até mesmo Markting; Me interessei por todas as linguagens mas me identifiquei com a JavaScript para aplicações Back-End;
+- 👋 Sou desenvolvedora Back-End, especializada nas linguagens de programação JavaScript, Java e Python; Tenho conhecimento na manipulação de dados relacionais SQL utilizando SGBD MySQL.
+- 👀 No monento sou estudante de Análise e Desenvolvimento de Sistema na faculdade Uninassau com ensino EAD.
 - 📫 Entre em contato por --> brendarochelly.developer@gmail.com
 
 <!---
